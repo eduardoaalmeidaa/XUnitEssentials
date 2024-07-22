@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "MathematicalOperations": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55475;http://localhost:55476"
+    }
+  }
+}
